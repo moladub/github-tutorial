@@ -18,5 +18,5 @@ def play_game(): Segun Adebayo's first attempt
             print(f"Congratulations! You guessed the number in {attempts} attempts.")
             break
 
-if __name__ == "__main__":
+if__name__ == "__main__":
     play_game()
